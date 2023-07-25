@@ -1,1 +1,1 @@
-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
+'your openai api key here'
